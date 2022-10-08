@@ -1,0 +1,31 @@
+/* Home */
+#home {
+    height: 820px;
+}
+
+.headings {
+    font-size: 1.7rem;
+}
+
+/* About */
+#pic img {
+    width: 300px;
+    height: 175px;
+}
+
+#intro h2 {
+    font-size: 1.5rem;
+}
+
+/* Portfolio */
+.galery img {
+    width: 250px;
+    height: 150px;
+    margin: 10px;
+}
+
+/* Article */
+.box-article {
+    width: 350px;
+    height: 700px;
+}
